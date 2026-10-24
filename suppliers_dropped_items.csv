@@ -1,2 +1,0 @@
-row_index,supplier_id,supplier_name,raw_country,raw_rating,drop_reason
-18,S004,"Amble, Prashad and Jha",Unknown,9.4,Duplicate Primary Key (S004): Conflicting record dropped in favor of valid China vendor entry.
