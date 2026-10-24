@@ -1,0 +1,19 @@
+row_index,order_id,customer_id,order_date,drop_reason
+270,O00108,C0129,13-Feb-2025,Exact Duplicate Order Record
+302,O00170,C0002,09/11/2024,Exact Duplicate Order Record
+319,O00012,C0050,10/06/2025,Exact Duplicate Order Record
+46,O00101,C9115,12/04/2025,Unmatched Orphaned Customer Reference ('C9115')
+66,O00127,C9374,2024-06-06,Unmatched Orphaned Customer Reference ('C9374')
+86,O00037,C9195,2025-01-27,Unmatched Orphaned Customer Reference ('C9195')
+98,O00125,C9356,07-Mar-2024,Unmatched Orphaned Customer Reference ('C9356')
+135,O00247,C9440,2025-06-29,Unmatched Orphaned Customer Reference ('C9440')
+154,O00070,C9795,02/17/2025,Unmatched Orphaned Customer Reference ('C9795')
+173,O00293,C9091,2025-04-23,Unmatched Orphaned Customer Reference ('C9091')
+179,O00316,C9423,2025-05-28,Unmatched Orphaned Customer Reference ('C9423')
+195,O00287,C9331,2024-01-13,Unmatched Orphaned Customer Reference ('C9331')
+202,O00250,C9946,11/09/2024,Unmatched Orphaned Customer Reference ('C9946')
+208,O00102,C9701,2024-11-03,Unmatched Orphaned Customer Reference ('C9701')
+221,O00203,C9589,12/02/2024,Unmatched Orphaned Customer Reference ('C9589')
+259,O00067,C9272,18/05/2024,Unmatched Orphaned Customer Reference ('C9272')
+271,O00269,C9433,09-Oct-2024,Unmatched Orphaned Customer Reference ('C9433')
+293,O00288,C9687,03-Feb-2024,Unmatched Orphaned Customer Reference ('C9687')
